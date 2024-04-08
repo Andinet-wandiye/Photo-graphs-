@@ -1,0 +1,44 @@
+.continar{
+background-image:url("photo-1519225421980-715cb0215aed.jpeg") ;
+background-size:cover;
+background-position:center;
+height: 1300px;
+}
+.ol h1{ text-align: center; color: red; font-size:40px;}
+.op{ text-align:center; color:gray; font-size:20px;
+word-spacing: 20px; background-color:white ;}
+
+.sign{
+    background-image:url("photo-1469371670807-013ccf25f16a.jpeg");
+    background-size:cover ;
+    background-position:center ;
+    text-align: center;
+    border-radius:20px;
+    
+}
+#a{color:red;background:white ; font-size: 20px;}
+#b{color:red;background:white ; font-size: 20px;}
+#c{color:red;background:white ; font-size: 20px;}
+body h1{text-align: center; color:red; font-size: 50px;
+top: 94px;}
+#d{color:red;background:white ; font-size: 80px;}
+#e{color:red;background:white; font-size: 80px;}
+#f{color:red;background:white; font-size: 20px;}
+body h1{text-align: center; color:red; font-size: 50px;
+top: 94px; background-image:url("photo-1519225421980-715cb0215aed.jpeg") ;
+background-size:cover;
+background-position:center;}
+
+#g{color:red;background:white; font-size: 20px;}
+#h{color:red;background:white ; font-size: 20px;}
+
+#i{color:white;background:orange ; font-size: 20px;}
+#od{font-size: 40px;  color: black;text-align:center;}
+
+.dropdown{word-spacing:20px; background-color:red;
+background-image:url("unsplash-photo-2.jpg") ;
+background-size:cover;
+background-position:center;
+height: 500px;
+
+}
